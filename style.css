@@ -1,0 +1,13 @@
+body {
+    background-color: grey;
+}
+
+a {
+    color: blue;
+}
+
+input, button {
+    width: 40%;
+    border: 1px solid blue;
+    padding: 5px;
+}
